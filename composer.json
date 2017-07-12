@@ -14,7 +14,6 @@
     "autoload": {
         "classmap": [
             "pdo/ez_sql_pdo.php",
-            "mysql/ez_sql_mysql.php",
             "mysqli/ez_sql_mysqli.php",
             "shared/ez_sql_core.php"
         ]
